@@ -17,8 +17,10 @@
 [SourceHanSerif-Regular]
 	f=3,1,0x411,\6E90\30CE\660E\671D
 	s=3,1,0x411,Regular
+	l=3,1,0x411,\6E90\30CE\660E\671D Regular
 	f=Source Han Serif
 	s=Regular
+	l=Source Han Serif Regular
 
 [SourceHanSerif-Medium]
 	f=3,1,0x411,\6E90\30CE\660E\671D
@@ -39,8 +41,10 @@
 [SourceHanSerif-Bold]
 	f=3,1,0x411,\6E90\30CE\660E\671D
 	s=3,1,0x411,Bold
+	l=3,1,0x411,\6E90\30CE\660E\671D Bold
 	f=Source Han Serif
 	s=Bold
+	l=Source Han Serif Bold
 
 [SourceHanSerif-Heavy]
 	f=3,1,0x411,\6E90\30CE\660E\671D
@@ -69,8 +73,10 @@
 [SourceHanSerifK-Regular]
 	f=3,1,0x412,\BCF8\BA85\C870
 	s=3,1,0x412,Regular
+	l=3,1,0x412,\BCF8\BA85\C870 Regular
 	f=Source Han Serif K
 	s=Regular
+	l=Source Han Serif K Regular
 
 [SourceHanSerifK-Medium]
 	f=3,1,0x412,\BCF8\BA85\C870
@@ -91,8 +97,10 @@
 [SourceHanSerifK-Bold]
 	f=3,1,0x412,\BCF8\BA85\C870
 	s=3,1,0x412,Bold
+	l=3,1,0x412,\BCF8\BA85\C870 Bold
 	f=Source Han Serif K
 	s=Bold
+	l=Source Han Serif K Bold
 
 [SourceHanSerifK-Heavy]
 	f=3,1,0x412,\BCF8\BA85\C870
@@ -121,8 +129,10 @@
 [SourceHanSerifSC-Regular]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
 	s=3,1,0x804,Regular
+	l=3,1,0x804,\601D\6E90\5B8B\4F53 Regular
 	f=Source Han Serif SC
 	s=Regular
+	l=Source Han Serif SC Regular
 
 [SourceHanSerifSC-Medium]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
@@ -143,8 +153,10 @@
 [SourceHanSerifSC-Bold]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
 	s=3,1,0x804,Bold
+	l=3,1,0x804,\601D\6E90\5B8B\4F53 Bold
 	f=Source Han Serif SC
 	s=Bold
+	l=Source Han Serif SC Bold
 
 [SourceHanSerifSC-Heavy]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
@@ -173,8 +185,10 @@
 [SourceHanSerifTC-Regular]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
 	s=3,1,0x404,Regular
+	l=3,1,0x404,\601D\6E90\5B8B\9AD4 Regular
 	f=Source Han Serif TC
 	s=Regular
+	l=Source Han Serif TC Regular
 
 [SourceHanSerifTC-Medium]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
@@ -195,8 +209,10 @@
 [SourceHanSerifTC-Bold]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
 	s=3,1,0x404,Bold
+	l=3,1,0x404,\601D\6E90\5B8B\9AD4 Bold
 	f=Source Han Serif TC
 	s=Bold
+	l=Source Han Serif TC Bold
 
 [SourceHanSerifTC-Heavy]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
