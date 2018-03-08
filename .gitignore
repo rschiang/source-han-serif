@@ -1,0 +1,12 @@
+# release files
+*.otf
+*.ttc
+
+# intermediate build files
+*.J
+*.fpr
+*.tmp
+
+# OS artifacts
+.DS_Store
+
